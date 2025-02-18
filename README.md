@@ -6,5 +6,5 @@ This Python script manages inventory by updating stock levels based on incoming 
  - Saves the updated inventory to a CSV file and displays items requiring restocking.
 
 Soon to include: 
-  -Database integration support
-  -API integration support
+ - Database integration support
+ - API integration support
